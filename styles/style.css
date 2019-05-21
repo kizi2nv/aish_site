@@ -1,0 +1,81 @@
+body{background-color: oldlace;
+    }
+/*header styles*/
+header{
+    background-color: rgb(179, 12, 12);
+    color: aliceblue   
+    }
+/*welcome styles*/
+    .wish{
+        top: 20px;
+    }
+/*End Welcome S
+/*Logo ROW*/
+
+    .logo{
+        width: 120px;
+        height: 50px;
+    }
+    .inlin{
+        
+        background-color: rgb(220, 20, 20);
+    }
+    #sign{
+    margin-left:77px;
+    }
+    #cart{
+        
+        margin-left:77px;
+        margin-right:0rem;
+    }
+    /*end  of Logo Row*/
+/*nav */
+.link{
+    text-decoration:none;
+    display: inline;
+    margin-left: 10px;
+    
+    }
+    .ank{color:green}
+    
+.lnk{
+    margin-left:345px;
+   
+    
+
+    }
+.nav_links a:hover{
+    color: bisque
+    }
+
+#insert{
+    width: 380px;
+    height: 40px;
+    border-radius: 25px;
+    margin-left: 47px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+/* End of Header Styles*/
+/* sales images*/
+.sale_img{
+    width: 190px;
+    height: 250px;
+    margin: 6px 8px;
+}
+/*end of Sales image*/
+/*special products*/
+#special{color: red;
+   
+    border-right: 2px inset black;
+}
+.special{
+    width: 230px;
+    height: 300px;
+    margin: 5px 20px;
+
+}
+footer{
+    background-color: brown;
+}
+/* oya */
