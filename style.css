@@ -1,0 +1,23 @@
+body{background-color: oldlace;
+    }
+header{
+    background-color: darkred;
+    color: aliceblue   
+    }
+li {
+    text-decoration:none;
+    }
+.nav_links{
+    list-style-type:none;
+    }
+.nav_links a:hover{
+    color: bisque
+    }
+.logo_line{
+    background-color: crimson;
+}
+#insert{
+    width: 40% ;
+    height: 30px;
+    border-radius: 10px;
+}
